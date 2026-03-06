@@ -1,3 +1,3 @@
 # jenkins-pipeline-test
 
-Hello World
+Due to using ngrok, the GitHub Webhook will need to be updated next time.
